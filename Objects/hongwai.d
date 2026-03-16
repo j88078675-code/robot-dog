@@ -1,7 +1,7 @@
 .\objects\hongwai.o: Hardware\Hongwai.c
 .\objects\hongwai.o: .\Start\stm32f10x.h
 .\objects\hongwai.o: .\Start\core_cm3.h
-.\objects\hongwai.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hongwai.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\hongwai.o: .\Start\system_stm32f10x.h
 .\objects\hongwai.o: .\User\stm32f10x_conf.h
 .\objects\hongwai.o: .\Library\stm32f10x_adc.h

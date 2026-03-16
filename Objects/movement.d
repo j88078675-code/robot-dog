@@ -1,7 +1,7 @@
 .\objects\movement.o: Hardware\Movement.c
 .\objects\movement.o: .\Start\stm32f10x.h
 .\objects\movement.o: .\Start\core_cm3.h
-.\objects\movement.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\movement.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\movement.o: .\Start\system_stm32f10x.h
 .\objects\movement.o: .\User\stm32f10x_conf.h
 .\objects\movement.o: .\Library\stm32f10x_adc.h
@@ -31,4 +31,4 @@
 .\objects\movement.o: Hardware\Servo.h
 .\objects\movement.o: Hardware\PWM.h
 .\objects\movement.o: .\System\Delay.h
-.\objects\movement.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\movement.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h

@@ -55,8 +55,11 @@ int main(void)
 	OLED_Clear();
 	OLED_ShowImage(0, 0, 128, 64, BMP1); //立正
 
-	SYN_FrameInfo(0, (uint8_t *)"[v12][m0][t5]旺旺");Delay_s(1);//唤醒后狗叫一声,音量12适合演示，10适合调试
+//	SYN_FrameInfo(0, (uint8_t *)"[v12][m0][t5]旺旺");Delay_s(1);//唤醒后狗叫一声,音量12适合演示，10适合调试
 	
+	while(1) {
+		
+	}
 	while (1)
 	{  
 		//***体力值与开心值反应设置***//

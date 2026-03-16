@@ -1,7 +1,7 @@
 .\objects\ultrasonicwave.o: Hardware\UltrasonicWave.c
 .\objects\ultrasonicwave.o: .\Start\stm32f10x.h
 .\objects\ultrasonicwave.o: .\Start\core_cm3.h
-.\objects\ultrasonicwave.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ultrasonicwave.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\ultrasonicwave.o: .\Start\system_stm32f10x.h
 .\objects\ultrasonicwave.o: .\User\stm32f10x_conf.h
 .\objects\ultrasonicwave.o: .\Library\stm32f10x_adc.h

@@ -1,7 +1,7 @@
 .\objects\usart2.o: System\usart2.c
 .\objects\usart2.o: .\Start\stm32f10x.h
 .\objects\usart2.o: .\Start\core_cm3.h
-.\objects\usart2.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart2.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\usart2.o: .\Start\system_stm32f10x.h
 .\objects\usart2.o: .\User\stm32f10x_conf.h
 .\objects\usart2.o: .\Library\stm32f10x_adc.h
@@ -28,7 +28,7 @@
 .\objects\usart2.o: .\Library\stm32f10x_usart.h
 .\objects\usart2.o: .\Library\stm32f10x_wwdg.h
 .\objects\usart2.o: .\Library\misc.h
-.\objects\usart2.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
-.\objects\usart2.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\usart2.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\usart2.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdarg.h
 .\objects\usart2.o: System\Delay.h
-.\objects\usart2.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\usart2.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h

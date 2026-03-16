@@ -1,7 +1,7 @@
 .\objects\mode.o: User\Mode.c
 .\objects\mode.o: .\Start\stm32f10x.h
 .\objects\mode.o: .\Start\core_cm3.h
-.\objects\mode.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mode.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\mode.o: .\Start\system_stm32f10x.h
 .\objects\mode.o: .\User\stm32f10x_conf.h
 .\objects\mode.o: .\Library\stm32f10x_adc.h
@@ -28,7 +28,7 @@
 .\objects\mode.o: .\Library\stm32f10x_usart.h
 .\objects\mode.o: .\Library\stm32f10x_wwdg.h
 .\objects\mode.o: .\Library\misc.h
-.\objects\mode.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\mode.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\mode.o: .\Hardware\LED.h
 .\objects\mode.o: .\System\Delay.h
 .\objects\mode.o: .\Hardware\OLED.h
@@ -37,7 +37,7 @@
 .\objects\mode.o: .\Hardware\PWM.h
 .\objects\mode.o: .\Hardware\Movement.h
 .\objects\mode.o: .\System\usart1.h
-.\objects\mode.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\mode.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\mode.o: .\System\usart2.h
 .\objects\mode.o: .\System\usart3.h
 .\objects\mode.o: .\Hardware\syn6288.h

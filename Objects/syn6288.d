@@ -2,7 +2,7 @@
 .\objects\syn6288.o: Hardware\syn6288.h
 .\objects\syn6288.o: .\Start\stm32f10x.h
 .\objects\syn6288.o: .\Start\core_cm3.h
-.\objects\syn6288.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\syn6288.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\syn6288.o: .\Start\system_stm32f10x.h
 .\objects\syn6288.o: .\User\stm32f10x_conf.h
 .\objects\syn6288.o: .\Library\stm32f10x_adc.h
@@ -30,6 +30,6 @@
 .\objects\syn6288.o: .\Library\stm32f10x_wwdg.h
 .\objects\syn6288.o: .\Library\misc.h
 .\objects\syn6288.o: .\System\usart2.h
-.\objects\syn6288.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
-.\objects\syn6288.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+.\objects\syn6288.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\syn6288.o: D:\MDK5\ARM\ARMCC\Bin\..\include\string.h
 .\objects\syn6288.o: .\System\delay.h
